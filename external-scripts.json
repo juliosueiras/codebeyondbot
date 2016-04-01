@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-seen",
   "hubot-codinglove",
-  "hubot-humanity"
+  "hubot-humanity",
+  "hubot-slack-scrapfy"
 ]
