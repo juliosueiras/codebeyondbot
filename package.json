@@ -9,6 +9,7 @@
     "hubot-bookmark": "0.0.4",
     "hubot-codinglove": "^0.2.6",
     "hubot-diagnostics": "0.0.1",
+    "hubot-eval": "^0.9.1",
     "hubot-gitter2": "^0.1.3",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
@@ -27,8 +28,5 @@
   },
   "engines": {
     "node": "0.10.x"
-  },
-  "devDependencies": {
-    "hubot-eval": "^0.9.1"
   }
 }
