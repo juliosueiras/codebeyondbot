@@ -14,5 +14,6 @@
   "hubot-humanity",
   "hubot-slack-scrapfy",
   "hubot-slack-overflow",
-  "hubot-bookmark"
+  "hubot-bookmark",
+  "hubot-eval"
 ]

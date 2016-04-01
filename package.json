@@ -27,5 +27,8 @@
   },
   "engines": {
     "node": "0.10.x"
+  },
+  "devDependencies": {
+    "hubot-eval": "^0.9.1"
   }
 }
