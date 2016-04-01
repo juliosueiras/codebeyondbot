@@ -12,5 +12,6 @@
   "hubot-seen",
   "hubot-codinglove",
   "hubot-humanity",
-  "hubot-slack-scrapfy"
+  "hubot-slack-scrapfy",
+  "hubot-slack-overflow"
 ]
