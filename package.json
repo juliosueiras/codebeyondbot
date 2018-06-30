@@ -24,9 +24,15 @@
     "hubot-seen": "^0.2.3",
     "hubot-shipit": "^0.2.0",
     "hubot-slack-overflow": "^1.0.0",
-    "hubot-slack-scrapfy": "0.0.1"
+    "hubot-slack-scrapfy": "0.0.1",
+    "snyk": "^1.88.0"
   },
   "engines": {
     "node": "0.10.x"
-  }
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
