@@ -5,7 +5,7 @@
   "author": "Julio Tain Sueiras <juliosueiras@gmail.com>",
   "description": "CodeBeyond HuBot",
   "dependencies": {
-    "hubot": "^2.18.0",
+    "hubot": "^3.5.0",
     "hubot-bookmark": "0.0.4",
     "hubot-codinglove": "^0.2.6",
     "hubot-diagnostics": "0.0.1",
